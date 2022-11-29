@@ -1,0 +1,25 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.caja{
+    position: relative;
+    
+}
+.boton{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-radius: 6px;
+    height: 100%;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.input{
+    height: 30px;
+    border-radius: 8px;
+    padding: 5px 25px 5px 10px;
+}

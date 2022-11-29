@@ -1,0 +1,73 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.cajas1{
+    position: relative;
+    height: 10px;
+    margin-left: 30px;
+    margin-top: -20px;
+
+}
+
+.cajas2{
+    position: relative;
+    height: 10px;
+    margin-top: 40px;
+    margin-left: -188px;
+
+}
+
+.cajas3{
+    position: relative;
+    height: 10px;
+    margin-top: 100px;
+    margin-left: -188px;
+
+}
+
+.cajas4{
+    position: relative;
+    height: 10px;
+    margin-top: 160px;
+    margin-left: -180px;
+
+}
+
+
+.boton{
+    position: relative;
+    margin-top: 0px;
+    margin-left: 20px;
+    border-radius: 6px;
+    height: 40px;
+    width: 150px;
+    border: none;
+    cursor: pointer;
+    color: rgb(79, 79, 79);
+}
+
+.boton :hover{
+    opacity: 0.8;
+}
+
+
+.input{
+    height: 30px;
+    border-radius: 8px;
+    margin-top: center;
+    
+}
+
+.exp{
+    text-align: center;
+}
+
+.texto{
+    color: rgb(86, 86, 86);
+}
+
+.texto:hover{
+    color:rgb(200, 0, 0);
+}

@@ -1,0 +1,14 @@
+.title{
+    justify-content: center;
+    text-align: center;
+}
+
+.title2{
+    justify-content: center;
+    text-align: center;
+}
+
+.title:hover{
+    opacity: 0.8;
+    color:red ;
+}

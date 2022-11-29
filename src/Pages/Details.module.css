@@ -1,0 +1,53 @@
+.detailsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.col{
+    max-width: 400px;
+    width: 80%;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+}
+
+.Image{
+    border-radius: 15px;
+}
+
+.details{
+    font-size: 1.5rem;
+}
+
+.fistItem{
+    margin-top: 0;
+}
+
+.load{
+    text-align: center;
+    margin-top: 250px;
+    font-size:xx-large;
+}
+
+.boton{
+    border-radius: 3px;
+    background-color: rgba(255, 1, 1, 0.623);
+    color: white;
+    
+}
+
+.boton:hover{
+    opacity: 0.8;
+}
+
+.boton2{
+    border-radius: 8px;
+    background-color: rgb(138, 0, 0);
+    color: white;
+    cursor: pointer;
+}
+
+.boton2:hover{
+    opacity: 0.8;
+}

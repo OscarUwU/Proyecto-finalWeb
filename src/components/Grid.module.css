@@ -1,0 +1,19 @@
+.Mgrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 230px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}
+
+@media (max-width: 560px){
+    .Mgrid{
+        grid-template-columns: 100%;
+    }
+}
+
+.load{
+    text-align: center;
+    margin-top: 250px;
+    font-size:xx-large;
+}
